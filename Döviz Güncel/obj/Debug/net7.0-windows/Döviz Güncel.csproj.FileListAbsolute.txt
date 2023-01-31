@@ -1,0 +1,17 @@
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\bin\Debug\net7.0-windows\Döviz Güncel.exe
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\bin\Debug\net7.0-windows\Döviz Güncel.deps.json
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\bin\Debug\net7.0-windows\Döviz Güncel.runtimeconfig.json
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\bin\Debug\net7.0-windows\Döviz Güncel.dll
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\bin\Debug\net7.0-windows\Döviz Güncel.pdb
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\Döviz Güncel.csproj.AssemblyReference.cache
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\Döviz_Güncel.Form1.resources
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\Döviz Güncel.csproj.GenerateResource.cache
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\Döviz Güncel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\Döviz Güncel.AssemblyInfoInputs.cache
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\Döviz Güncel.AssemblyInfo.cs
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\Döviz Güncel.csproj.CoreCompileInputs.cache
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\Döviz Güncel.dll
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\refint\Döviz Güncel.dll
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\Döviz Güncel.pdb
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\Döviz Güncel.genruntimeconfig.cache
+C:\Users\Galip Can Karaarslan\source\repos\Döviz Güncel\Döviz Güncel\obj\Debug\net7.0-windows\ref\Döviz Güncel.dll

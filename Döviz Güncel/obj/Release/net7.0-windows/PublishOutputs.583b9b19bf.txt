@@ -1,0 +1,5 @@
+C:\exepublishler\Döviz Güncel.exe
+C:\exepublishler\Döviz Güncel.dll
+C:\exepublishler\Döviz Güncel.deps.json
+C:\exepublishler\Döviz Güncel.runtimeconfig.json
+C:\exepublishler\Döviz Güncel.pdb
